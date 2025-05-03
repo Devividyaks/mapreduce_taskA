@@ -1,1 +1,1 @@
-# mapreduce_taskA
+# MapReduce Prototype
