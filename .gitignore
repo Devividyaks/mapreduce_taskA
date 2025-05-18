@@ -1,10 +1,4 @@
-# Python
-venv/
 __pycache__/
-*.pyc
-
-# macOS
+*.py[cod]
 .DS_Store
-
-# Editor
-.vscode/
+*.csv
